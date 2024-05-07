@@ -232,7 +232,8 @@ color: #000000;
 ## OUTPUT:
 
 
-![283381506-ab7c990e-cab0-40e6-96ed-116fe21088c9](https://github.com/githubmufeez45/Figma/assets/134826568/8995ece4-a253-4752-b529-1d9e8c088185)
+![figma output](https://github.com/githubmufeez45/Figma/assets/134826568/d1db2a38-f88b-4cc9-8556-d4d4d0af5006)
+
 
 
 ## RESULT:
